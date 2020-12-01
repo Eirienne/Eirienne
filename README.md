@@ -1,10 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on ...
+
 [![Eirienne's github stats](https://github-readme-stats.vercel.app/api?username=Eirienne&show_icons=true&theme=tokyonight)](https://github.com/Eirienne)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eirienne&layout=compact)](https://github.com/Eirienne)
 
-[![Eirienne's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Eirienne&layout=compact)](https://github.com/Eirienne)
 <!--
 **Eirienne/Eirienne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
