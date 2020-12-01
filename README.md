@@ -2,6 +2,8 @@
 
 - 🔭 I’m currently working on ...
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Eirienne&repo=WindSeer)](https://github.com/Eirienne/WindSeer)
+
 [![Eirienne's github stats](https://github-readme-stats.vercel.app/api?username=Eirienne&show_icons=true&theme=tokyonight)](https://github.com/Eirienne)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eirienne&layout=compact)](https://github.com/Eirienne)
