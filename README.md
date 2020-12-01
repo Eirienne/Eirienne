@@ -4,10 +4,9 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Eirienne&repo=WindSeer)](https://github.com/Eirienne/WindSeer)
 
-[![Eirienne's github stats](https://github-readme-stats.vercel.app/api?username=Eirienne&show_icons=true&theme=tokyonight)](https://github.com/Eirienne)
-
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eirienne&layout=compact">
 
+[![Eirienne's github stats](https://github-readme-stats.vercel.app/api?username=Eirienne&show_icons=true&theme=tokyonight)](https://github.com/Eirienne)
 
 <!--
 **Eirienne/Eirienne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
