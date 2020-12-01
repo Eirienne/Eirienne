@@ -6,7 +6,7 @@
 
 [![Eirienne's github stats](https://github-readme-stats.vercel.app/api?username=Eirienne&show_icons=true&theme=tokyonight)](https://github.com/Eirienne)
 
-<img align="right"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eirienne&layout=compact">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eirienne&layout=compact">
 
 
 <!--
