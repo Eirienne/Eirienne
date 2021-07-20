@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on ...
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Eirienne&repo=WindSeer)](https://github.com/Eirienne/AL-Tools)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Eirienne&repo=WindSeer-AL-Tool)](https://github.com/Eirienne/WindSeer-AL-Tool)
 
 | UwU | Eirienne's Card |
 | ------------- | ------------- |
